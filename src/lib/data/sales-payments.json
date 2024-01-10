@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "payment_no": "PAY-000",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn Chorn"
+    },
+    "posting_date": "2023-10-12"
+  },
+  {
+    "id": 2,
+    "payment_no": "PAY-001",
+    "status": 0,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-13"
+  },
+  {
+    "id": 3,
+    "payment_no": "PAY-002",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-14"
+  },
+  {
+    "id": 4,
+    "payment_no": "PAY-003",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-15"
+  },
+  {
+    "id": 5,
+    "payment_no": "PAY-004",
+    "status": 0,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-16"
+  },
+  {
+    "id": 6,
+    "payment_no": "PAY-005",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-17"
+  },
+  {
+    "id": 7,
+    "payment_no": "PAY-006",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-18"
+  },
+  {
+    "id": 8,
+    "payment_no": "PAY-007",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-19"
+  },
+  {
+    "id": 9,
+    "payment_no": "PAY-008",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-20"
+  },
+  {
+    "id": 10,
+    "payment_no": "PAY-009",
+    "status": 1,
+    "customer":  {
+      "name": "Thorn"
+    },
+    "posting_date": "2023-10-21"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Jonh Deo",
+    "email": "jonhdeo1@email.com",
+    "phone": "+855 12 345 678",
+    "outstanding_balance": 0,
+    "status": 1
+  },
+  {
+    "id": 2,
+    "name": "Jonh Deo",
+    "email": "jonhdeo2@email.com",
+    "phone": "+855 12 345 679",
+    "outstanding_balance": 10,
+    "status": 0
+  },
+  {
+    "id": 3,
+    "name": "Jonh Deo",
+    "email": "jonhdeo3@email.com",
+    "phone": "+855 12 345 680",
+    "outstanding_balance": 20,
+    "status": 1
+  },
+  {
+    "id": 4,
+    "name": "Jonh Deo",
+    "email": "jonhdeo4@email.com",
+    "phone": "+855 12 345 681",
+    "outstanding_balance": 30,
+    "status": 0
+  },
+  {
+    "id": 5,
+    "name": "Jonh Deo",
+    "email": "jonhdeo5@email.com",
+    "phone": "+855 12 345 682",
+    "outstanding_balance": 40,
+    "status": 1
+  },
+  {
+    "id": 6,
+    "name": "Jonh Deo",
+    "email": "jonhdeo6@email.com",
+    "phone": "+855 12 345 683",
+    "outstanding_balance": 50,
+    "status": 0
+  },
+  {
+    "id": 7,
+    "name": "Jonh Deo",
+    "email": "jonhdeo7@email.com",
+    "phone": "+855 12 345 684",
+    "outstanding_balance": 60,
+    "status": 1
+  },
+  {
+    "id": 8,
+    "name": "Jonh Deo",
+    "email": "jonhdeo8@email.com",
+    "phone": "+855 12 345 685",
+    "outstanding_balance": 70,
+    "status": 0
+  },
+  {
+    "id": 9,
+    "name": "Jonh Deo",
+    "email": "jonhdeo9@email.com",
+    "phone": "+855 12 345 686",
+    "outstanding_balance": 80,
+    "status": 1
+  },
+  {
+    "id": 10,
+    "name": "Jonh Deo",
+    "email": "jonhdeo10@email.com",
+    "phone": "+855 12 345 687",
+    "outstanding_balance": 90,
+    "status": 0
+  }
+]
